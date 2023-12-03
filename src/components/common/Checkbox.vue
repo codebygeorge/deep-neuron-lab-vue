@@ -5,7 +5,6 @@ export default defineComponent({
   props: {
     inputProps: {
       type: Object as PropType<InputHTMLAttributes>,
-      required: true,
     },
   },
 });

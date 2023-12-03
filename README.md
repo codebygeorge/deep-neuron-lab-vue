@@ -1,5 +1,19 @@
 # deep-neuron-lab-vue
 
+## **Notes**
+
+1. Task is completed with Vue.js v3 with VITE
+2. Everything else is almost the same as in react.js repo. (Logic, styles, even file structure).
+3. I've used pinia as state management. (I know it's not necessary for such app, but I just wanted to try it).
+4. Simple fetch is used for REST apis
+5. You might see some funny things around, but don't judge; this is my first time with vue ;)
+
+## **Steps to run**
+
+1. First of all -> rename file `.env.example` to `.env`
+2. Install packages -> `npm install`
+3. Finally run and enjoy! -> `npm run dev`
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
